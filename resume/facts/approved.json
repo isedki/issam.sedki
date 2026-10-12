@@ -1,0 +1,205 @@
+{
+  "_about": "Everything the new resume may add. A technology or number not listed here (or in the baseline) fails validation. status: confirmed = you said it or the code shows it; assumed = my guess, waiting for your yes/no.",
+  "tech": {
+    "hygraph": {
+      "confirmed": {
+        "Claude": "you, 2026-10-12",
+        "Claude Agent SDK": "you",
+        "Claude Code": "you",
+        "Cursor": "you",
+        "GitHub Copilot": "you",
+        "MCP": "you + baseline",
+        "FastMCP": "you (ticketing system)",
+        "Next.js": "you (Guide to Iceland)",
+        "Vercel": "you",
+        "Fastly": "you",
+        "AWS": "you",
+        "Aurora": "you",
+        "GraphQL": "baseline",
+        "TypeScript": "you (hands-on language)",
+        "vector store": "you (context for agents)"
+      },
+      "assumed": {
+        "Python": "FastMCP is a Python library",
+        "Cost Explorer": "you said AWS Cost Explorer; placed with the Guide to Iceland cost program"
+      }
+    },
+    "showcare": {
+      "confirmed": {
+        "PHP": "baseline (PHP monolith)",
+        "Cypress": "you, 2026-10-12 (testing tools)",
+        "Gherkin": "you, 2026-10-12 (testing tools)",
+        "TDD": "you, 2026-10-12 (testing tools)",
+        "BDD": "you, 2026-10-12 (testing tools)"
+      },
+      "assumed": {
+        "React": "you listed it for past roles",
+        "Node.js": "you listed it",
+        "TypeScript": "you listed it"
+      }
+    },
+    "ibm": {
+      "confirmed": {
+        "Kubernetes": "baseline",
+        "Ansible": "baseline",
+        "Jenkins": "baseline",
+        "API-native": "you, 2026-10-12 (Vidéotron)"
+      },
+      "assumed": {}
+    },
+    "artbees": {
+      "confirmed": {
+        "WordPress": "baseline"
+      },
+      "assumed": {
+        "PHP": "WordPress is PHP",
+        "React": "you listed it"
+      }
+    },
+    "worldbank": {
+      "confirmed": {},
+      "assumed": {
+        "Java": "you listed it",
+        "J2EE": "you listed it for Java; which Java roles?",
+        "Spring": "you listed it for Java; which Java roles?",
+        "Struts": "you listed it for Java; which Java roles?",
+        "Hibernate": "you listed it for Java; which Java roles?",
+        "Maven": "you listed it for Java; which Java roles?",
+        "Jenkins": "you listed it for Java; which Java roles?",
+        "SQL": "you listed it for Java; which Java roles?"
+      }
+    },
+    "atos": {
+      "confirmed": {
+        "OSS": "you, 2026-10-12 (inwi)",
+        "BSS": "you, 2026-10-12 (inwi)",
+        "PeopleSoft": "you, 2026-10-12 (inwi)",
+        "SAP": "you, 2026-10-12 (inwi)",
+        "Intelligent Network": "you, 2026-10-12 (inwi)",
+        "Gherkin": "you, 2026-10-12 (testing tools)",
+        "TDD": "you, 2026-10-12 (testing tools)",
+        "BDD": "you, 2026-10-12 (testing tools)"
+      },
+      "assumed": {}
+    },
+    "uniforce": {
+      "confirmed": {},
+      "assumed": {
+        "Java": "you listed it",
+        "J2EE": "you listed it for Java; which Java roles?",
+        "Spring": "you listed it for Java; which Java roles?",
+        "Struts": "you listed it for Java; which Java roles?",
+        "Hibernate": "you listed it for Java; which Java roles?",
+        "Maven": "you listed it for Java; which Java roles?",
+        "Jenkins": "you listed it for Java; which Java roles?",
+        "SQL": "you listed it for Java; which Java roles?"
+      }
+    },
+    "archos": {
+      "confirmed": {
+        "Java": "baseline"
+      },
+      "assumed": {
+        "J2EE": "you listed it for Java; which Java roles?",
+        "Spring": "you listed it for Java; which Java roles?",
+        "Struts": "you listed it for Java; which Java roles?",
+        "Hibernate": "you listed it for Java; which Java roles?",
+        "Maven": "you listed it for Java; which Java roles?",
+        "Jenkins": "you listed it for Java; which Java roles?",
+        "SQL": "you listed it for Java; which Java roles?"
+      }
+    },
+    "amadeus": {
+      "confirmed": {
+        "Java": "baseline"
+      },
+      "assumed": {
+        "J2EE": "you listed it for Java; which Java roles?",
+        "Spring": "you listed it for Java; which Java roles?",
+        "Struts": "you listed it for Java; which Java roles?",
+        "Hibernate": "you listed it for Java; which Java roles?",
+        "Maven": "you listed it for Java; which Java roles?",
+        "Jenkins": "you listed it for Java; which Java roles?",
+        "SQL": "you listed it for Java; which Java roles?"
+      }
+    },
+    "phd": {
+      "confirmed": {
+        "Python": "you",
+        "PyTorch": "you",
+        "BERT": "you",
+        "LogPAI": "you (log parsers)",
+        "NLP": "you, 2026-10-12 (BERT, log analytics)"
+      },
+      "assumed": {}
+    },
+    "pilote": {
+      "confirmed": {
+        "TypeScript": "repo",
+        "React": "repo",
+        "Node.js": "repo",
+        "SQLite": "repo (node:sqlite)",
+        "SQL": "repo (node:sqlite)",
+        "Claude Agent SDK": "repo",
+        "Claude": "repo",
+        "Sonnet": "repo",
+        "Haiku": "repo",
+        "MCP": "repo (createSdkMcpServer)",
+        "Zod": "repo",
+        "GitHub Actions": "repo ci.yml",
+        "whisper.cpp": "repo",
+        "Claude Code": "you (team of agents)"
+      },
+      "assumed": {}
+    },
+    "general": {
+      "confirmed": {
+        "OpenAI": "you, 2026-10-12 (OpenAI API)",
+        "Claude": "you (Claude API)",
+        "RAG": "you",
+        "vector store": "you",
+        "NLP": "you, 2026-10-12",
+        "Spring": "you, 2026-10-12",
+        "SQL": "you, 2026-10-12",
+        "Aurora": "you, 2026-10-12",
+        "Cost Explorer": "you, 2026-10-12",
+        "Cypress": "you, 2026-10-12",
+        "Gherkin": "you, 2026-10-12",
+        "TDD": "you, 2026-10-12",
+        "BDD": "you, 2026-10-12",
+        "Maven": "you, 2026-10-12",
+        "Jenkins": "you, 2026-10-12",
+        "J2EE": "you, 2026-10-12",
+        "Struts": "you, 2026-10-12",
+        "Hibernate": "you, 2026-10-12",
+        "Java": "you, 2026-10-12"
+      },
+      "assumed": {}
+    },
+    "lawrag": {
+      "confirmed": {
+        "RAG": "you (Moroccan law project)"
+      },
+      "assumed": {}
+    }
+  },
+  "_tech_note": "Skills and summary may use any technology approved for a role or under 'general'.",
+  "numbers": {
+    "55 commits": "git log, pilote-billing",
+    "14,000+ lines": "wc -l on src, 14,270",
+    "3 days": "commits 2026-10-10 to 2026-10-12",
+    "160+": "167 unit and integration tests",
+    "24 end-to-end": "24 Playwright scenarios in app.spec.ts",
+    "2026": "pilote-billing project date",
+    "github.com/isedki": "you"
+  },
+  "projects": {
+    "pilote": "Pilote Billing",
+    "lawrag": "Moroccan attorneys"
+  },
+  "removed": {
+    "Electron": "you, 2026-10-12",
+    "Vitest": "you, 2026-10-12",
+    "Playwright": "you, 2026-10-12"
+  }
+}

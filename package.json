@@ -1,0 +1,30 @@
+{
+  "name": "issam.sedki",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "resume:check": "sh resume/check.sh",
+    "prebuild": "node resume/build.js public/Issam_Sedki_Resume.docx",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "docx": "9.5.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.0",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

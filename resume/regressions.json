@@ -1,0 +1,96 @@
+{
+  "caught": 15,
+  "total": 15,
+  "cases": [
+    {
+      "name": "Changed date",
+      "planted": "IBM start date moved from 2018 to 2017",
+      "caught": true,
+      "message": "Role header changed or missing: Principal Enterprise Architect (01/2018 – 08/2020)"
+    },
+    {
+      "name": "Inflated metric",
+      "planted": "Guide to Iceland cost cut raised from 40% to 60%",
+      "caught": true,
+      "message": "Missing metrics fact: \"40%\""
+    },
+    {
+      "name": "Dropped client",
+      "planted": "ExxonMobil replaced by \"Energy client\"",
+      "caught": true,
+      "message": "Missing clients fact: \"ExxonMobil\""
+    },
+    {
+      "name": "Invented framework",
+      "planted": "LangGraph added to the Hygraph stack",
+      "caught": true,
+      "message": "Technology 'LangGraph' is not approved for hygraph: \"Stack: Claude Agent SDK, Claude Code, MCP, FastMCP, vector stores, TypeScript, GraphQL, Ne…\""
+    },
+    {
+      "name": "Technology in the wrong role",
+      "planted": "Claude Agent SDK added to IBM (2018–2020)",
+      "caught": true,
+      "message": "Technology 'Claude Agent SDK' is not approved for ibm: \"IBM Consulting | Montréal, Canada | Stack: Kubernetes, Claude Agent SDK…\""
+    },
+    {
+      "name": "Invented skill",
+      "planted": "\"RAG with Pinecone\" added to skills",
+      "caught": true,
+      "message": "Unapproved technology 'Pinecone' in: \"AI engineering: Claude and OpenAI APIs, Claude Agent SDK, agent frameworks and custom harn…\""
+    },
+    {
+      "name": "Unsourced number",
+      "planted": "\"Served 3,000,000 requests per day\" added",
+      "caught": true,
+      "message": "New number '3,000,000' not in baseline or approved list: \"Served 3,000,000 requests per day.…\""
+    },
+    {
+      "name": "Roles out of order",
+      "planted": "IBM moved to the top of the experience list",
+      "caught": true,
+      "message": "Roles are no longer in reverse-chronological order"
+    },
+    {
+      "name": "Certification dropped",
+      "planted": "PMI-ACP removed",
+      "caught": true,
+      "message": "Missing certifications fact: \"PMI-ACP\""
+    },
+    {
+      "name": "Plural slips through",
+      "planted": "\"vector stores\" added to IBM",
+      "caught": true,
+      "message": "Technology 'vector store' is not approved for ibm: \"IBM Consulting | Montréal, Canada | Stack: Kubernetes, vector stores…\""
+    },
+    {
+      "name": "Framework in a project",
+      "planted": "LangChain added to the Moroccan law RAG project",
+      "caught": true,
+      "message": "Technology 'LangChain' is not approved for lawrag: \"Orchestrated with LangChain.…\""
+    },
+    {
+      "name": "Removed technology returns",
+      "planted": "Electron added back to Pilote Billing",
+      "caught": true,
+      "message": "'Electron' is back, but you asked to remove it"
+    },
+    {
+      "name": "Old stack in an AI role",
+      "planted": "Struts added to Hygraph",
+      "caught": true,
+      "message": "Technology 'Struts' is not approved for hygraph: \"Stack: Claude Agent SDK, Claude Code, MCP, FastMCP, vector stores, TypeScript, GraphQL, Ne…\""
+    },
+    {
+      "name": "Anachronism",
+      "planted": "Kubernetes (2014) added to Amadeus (2004–2007)",
+      "caught": true,
+      "message": "'Kubernetes' (released 2014) listed under amadeus, which ended in 2007"
+    },
+    {
+      "name": "Placeholder left in",
+      "planted": "\"TODO add numbers\" added",
+      "caught": true,
+      "message": "Placeholder text: \"TODO add numbers\""
+    }
+  ]
+}
