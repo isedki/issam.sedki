@@ -1,0 +1,92 @@
+{
+  "result": "PASS",
+  "failures": [],
+  "warnings": [
+    "Please confirm for hygraph: Cost Explorer",
+    "Please confirm for showcare: TypeScript, Node.js, React",
+    "Please confirm for artbees: React, PHP",
+    "Please confirm for worldbank: Hibernate, Jenkins, Spring, Struts, Maven, Java, J2EE, SQL",
+    "Please confirm for uniforce: Hibernate, Jenkins, Spring, Struts, Maven, Java, J2EE, SQL",
+    "Please confirm for archos: Hibernate, Jenkins, Spring, Struts, Maven, J2EE, SQL",
+    "Please confirm for amadeus: Hibernate, Jenkins, Spring, Struts, Maven, J2EE, SQL"
+  ],
+  "pages": 2,
+  "max_pages": 2,
+  "pages_measured_with": "Microsoft Word",
+  "checked": {
+    "protected_facts": 93,
+    "roles": 10,
+    "technology_mentions": 162,
+    "numbers": 43
+  },
+  "coverage": [
+    {
+      "requirement": "6+ years of experience",
+      "covered": true
+    },
+    {
+      "requirement": "Deploys a full app alone (front end, back end, DevOps)",
+      "covered": true
+    },
+    {
+      "requirement": "Production app at scale",
+      "covered": true
+    },
+    {
+      "requirement": "AI SDLC in production (AI coding tools)",
+      "covered": true
+    },
+    {
+      "requirement": "Prompt design",
+      "covered": true
+    },
+    {
+      "requirement": "Function / tool calling",
+      "covered": true
+    },
+    {
+      "requirement": "Structured outputs",
+      "covered": true
+    },
+    {
+      "requirement": "RAG",
+      "covered": true
+    },
+    {
+      "requirement": "Vector stores",
+      "covered": true
+    },
+    {
+      "requirement": "Anthropic API",
+      "covered": true
+    },
+    {
+      "requirement": "OpenAI API",
+      "covered": true
+    },
+    {
+      "requirement": "Evals as a core habit",
+      "covered": true
+    },
+    {
+      "requirement": "Agentic systems end to end (plan, code, self-validate)",
+      "covered": true
+    },
+    {
+      "requirement": "Orchestration frameworks",
+      "covered": true
+    },
+    {
+      "requirement": "Opinion on frameworks vs thin harness",
+      "covered": true
+    },
+    {
+      "requirement": "Reliability, cost control, observability",
+      "covered": true
+    },
+    {
+      "requirement": "Cloud data platform + SQL",
+      "covered": true
+    }
+  ]
+}

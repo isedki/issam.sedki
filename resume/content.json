@@ -1,0 +1,170 @@
+{
+  "name": "Issam Sedki, PhD",
+  "headline": "Senior AI Engineer | AI Systems Architect",
+  "contact": "isedki@gmail.com | linkedin.com/in/isedki | github.com/isedki",
+  "summary": "Hands-on AI engineer and architect with 22 years across Europe, North America and Africa, in senior architecture roles since 2010. ENSIMAG engineer, PhD in AI for IT operations. I build agentic systems end to end in TypeScript and Python with the Claude and OpenAI APIs and the Claude Agent SDK: multi-agent workflows, tool calling, RAG, MCP servers, test-and-fix loops, LLM reviewers, human checkpoints, tracing. Led cloud modernization for Vidéotron, Desjardins, CN Rail, OCP Group, Samsung and Sphere. Open to international and remote roles.",
+  "achievements": [
+    "Release cycles cut by 50% at Vidéotron through API-first architecture governance.",
+    "Architecture work on projects over $10M at IBM for OCP Group, Vidéotron, Desjardins and CN Rail.",
+    "Platform used by over 100,000 INPS pensioners in Mali within 6 months of launch.",
+    "Engineering and architecture organization built from 1 to 50+ people at Showcare.",
+    "$10M+ recurring revenue portfolio at Hygraph, with 112% net revenue retention."
+  ],
+  "skills": [
+    [
+      "AI engineering",
+      "Claude and OpenAI APIs, Claude Agent SDK, agent frameworks and custom harnesses, multi-agent orchestration, tool calling, MCP (FastMCP), RAG, vector stores, structured outputs (Zod), versioned prompts, LLM reviewers, human-in-the-loop, tracing, cost budgets. Claude Code, Cursor, GitHub Copilot."
+    ],
+    [
+      "Machine learning",
+      "Python, PyTorch, BERT, NLP, LogPAI log parsers, AIOps, LLM-based log analytics."
+    ],
+    [
+      "Software and cloud",
+      "TypeScript, Node.js, React, Next.js, Python, Java (J2EE, Spring, Struts, Hibernate, Maven), PHP, GraphQL and REST, SQL. AWS (Aurora, Cost Explorer), Vercel, Fastly, Kubernetes, Ansible, Jenkins, GitHub Actions, CI/CD, SRE."
+    ],
+    [
+      "Testing",
+      "TDD, BDD with Gherkin and Cypress, end-to-end and live LLM tests, test automation."
+    ],
+    [
+      "Architecture and delivery",
+      "TOGAF, target architectures, architecture governance and review board, API-first, microservices, headless CMS, BSS integration. COBIT 5, ITIL, GDPR, SLAs. PMP, SAFe, Scrum, C-level stakeholders, hiring."
+    ]
+  ],
+  "projects": [
+    {
+      "key": "pilote",
+      "title": "Pilote Billing, AI project-management agent (personal project)",
+      "dates": "10/2026",
+      "stack": "TypeScript, React, SQLite, Claude Agent SDK, Claude (Sonnet, Haiku), MCP, Zod, GitHub Actions",
+      "bullets": [
+        "Built by a team of Claude Code agents led by a scrum-master orchestrator agent, with my review of each change: 55 commits, 14,000+ lines in 3 days. CI gate: 160+ unit and integration tests, 24 end-to-end scenarios, live Claude tests.",
+        "The agent updates project registers, plans and weekly reports from emails, documents and meeting recordings (French and Darija), through tools served as an in-process MCP server with per-tool permissions and a cost budget per run.",
+        "Reliability: every LLM call traced (tools, tokens, cost); output checked automatically (valid JSON, quotes verified against the source); human review queue; versioned prompt skills; weekly quality score."
+      ]
+    },
+    {
+      "key": "lawrag",
+      "title": "Legal research assistant for Moroccan attorneys (RAG)",
+      "dates": "",
+      "bullets": [
+        "RAG application giving Moroccan attorneys answers grounded in Moroccan law, retrieving the relevant legal texts."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "key": "hygraph",
+      "title": "Director of Architecture",
+      "dates": "12/2023 – 07/2026",
+      "org": "Hygraph | API-first headless content platform for large enterprises",
+      "stack": "Claude Agent SDK, Claude Code, MCP, FastMCP, vector stores, TypeScript, GraphQL, Next.js, Vercel, Fastly, AWS (Aurora, Cost Explorer)",
+      "bullets": [
+        "AI: built a team of AI agents on the Claude Agent SDK with automated fail, fix and pass cycles (unit and end-to-end tests, LLM reviewer, human checkpoint for decisions) and vector stores for context. Exposed services without native MCP support, such as the ticketing system, via FastMCP. Ran a customer AI onboarding program.",
+        "Architecture and delivery for 15+ enterprise accounts in 12+ countries (Samsung, Epic Games, SEEK, Sphere), from discovery and target architecture to go-live.",
+        "Guide to Iceland: led the cost reduction program and rebuilt the platform architecture (Next.js, Vercel, Fastly, AWS Aurora), setting it up for a 40% cut in infrastructure costs and lower latency (caching, test automation, MCP-generated front end, i18n and localization).",
+        "SEEK: cut event setup time from 2 weeks to a few hours with event automation and reusable content templates. Sphere (Madison Square Garden group): led the expansion plan for Dubai. UK agency: led its entire digital transformation.",
+        "Governed migrations from Drupal, WordPress and AEM to cloud-native, with quality checks and cutover rehearsals.",
+        "Led a team of 10 experts across support, architecture, solutions engineering and customer success. Built the delivery organization (SLAs, escalation, major incidents)."
+      ]
+    },
+    {
+      "key": "fxinnovation",
+      "title": "Principal Architect, Cloud Modernization (consulting)",
+      "dates": "03/2023 – 06/2023",
+      "org": "FXinnovation, client CAE | Montréal, Canada",
+      "bullets": [
+        "Audit of SRE, delivery pipelines and operations across 5 departments with a team of 20, presented to the C-level. Cloud-native and DevOps modernization roadmap aligned with budget, adopted by leadership and split into unit roadmaps to break silos."
+      ]
+    },
+    {
+      "key": "showcare",
+      "title": "Head of Engineering and Architecture",
+      "dates": "09/2020 – 02/2023",
+      "org": "Mission.dev, client Showcare | Montréal, Canada | Acting CTO of Showcare, reporting to the COO",
+      "stack": "TypeScript, Node.js, React, PHP (legacy monolith), TDD, BDD with Gherkin and Cypress",
+      "bullets": [
+        "Designed and built Showcare's event management platform from scratch (booking automation, partner integrations) in the transformation I led with the COO.",
+        "Replaced the PHP monolith with microservices, with RBAC, SSO, and API contracts and integration standards shared by all product teams. Test automation and production monitoring to shorten delivery cycles and reduce defects.",
+        "Ran 5 products and 5 teams with SAFe (PI planning, release trains) in a company new to agile. Hired the team leads."
+      ]
+    },
+    {
+      "key": "ibm",
+      "title": "Principal Enterprise Architect",
+      "dates": "01/2018 – 08/2020",
+      "org": "IBM Consulting | Montréal, Canada",
+      "stack": "Kubernetes, Ansible, Jenkins, hybrid cloud, API-native",
+      "bullets": [
+        "Vidéotron: architecture lead on the digital transformation, managing 5 architects (DevOps, security, API, compliance, infrastructure) with a scrum master, a PO and 20+ people on Vidéotron's side. Set up API-first governance for an API-native architecture.",
+        "Desjardins (financial cooperative) and CN Rail: COBIT 5 and TOGAF audits, then target architectures and business cases.",
+        "ExxonMobil: end-to-end migration to hybrid cloud (Kubernetes, Ansible, Jenkins).",
+        "OCP Group (global phosphate and fertilizer producer): GDPR compliance audit."
+      ]
+    },
+    {
+      "key": "artbees",
+      "title": "Principal Architect, Portfolio and DevOps",
+      "dates": "12/2016 – 12/2017",
+      "org": "Artbees | Jupiter, a WordPress-based CMS",
+      "stack": "WordPress, PHP, React",
+      "bullets": [
+        "Lead architect for Jupiter and its VIP customers, owning portfolio and delivery. Led the Scrum teams and C-level relationship.",
+        "DevOps: set up CI/CD, automated testing and release gates. Releases went from months to weeks."
+      ]
+    },
+    {
+      "key": "worldbank",
+      "title": "Lead Solution Architect (consulting engagement)",
+      "dates": "04/2014 – 12/2016",
+      "org": "World Bank | Morocco, Togo, Mali, Senegal",
+      "stack": "Java, J2EE, Spring, Struts, Hibernate, Maven, Jenkins, SQL",
+      "bullets": [
+        "Solution architecture for the digital transformation of Finance and Agriculture ministries in four countries, including data exchange between government platforms. INPS Mali (national social security institute), 2015: launched the retirees' application, then improved its scalability after go-live."
+      ]
+    },
+    {
+      "key": "atos",
+      "title": "Quality and Integration Manager",
+      "dates": "05/2012 – 04/2014",
+      "org": "Atos, client inwi (Moroccan telecom operator) | Casablanca, Morocco",
+      "bullets": [
+        "Led testers and integrators on the BSS transformation (product catalogue, CRM, customer portal, billing) and the national 4G rollout: architecture reviews, test automation, and the go/no-go sign-off before releases."
+      ],
+      "stack": "OSS/BSS, billing, Intelligent Network (IN), SAP, PeopleSoft, TDD, BDD with Gherkin"
+    },
+    {
+      "key": "uniforce",
+      "title": "Senior Architect and Team Lead",
+      "dates": "2008 – 2012",
+      "org": "Uniforce | Casablanca, Morocco and Paris (Gennevilliers), France",
+      "stack": "Java, J2EE, Spring, Struts, Hibernate, Maven, Jenkins, SQL",
+      "bullets": [
+        "Architecture of the port management system for Marsa Maroc. Project management for Chèque Déjeuner (French meal voucher group) with executive steering."
+      ]
+    },
+    {
+      "key": "archos",
+      "title": "Senior Java Developer",
+      "dates": "2007 – 2008",
+      "org": "Archos Conseil | Casablanca, Morocco | Java and automation for Pixid (French temporary staffing SaaS)",
+      "stack": "Java, J2EE, Spring, Struts, Hibernate, Maven, Jenkins, SQL"
+    },
+    {
+      "key": "amadeus",
+      "title": "Senior Java Developer",
+      "dates": "2004 – 2007",
+      "org": "Amadeus | Sophia Antipolis, France | Planitgo Next and Flex Pricer team (airline booking and fare search), automation",
+      "stack": "Java, J2EE, Spring, Struts, Hibernate, Maven, Jenkins, SQL"
+    }
+  ],
+  "education": [
+    "PhD in Electrical and Computer Engineering, Concordia University, 2025. Research on AIOps and LLM-based log analytics (Python, PyTorch, BERT, NLP, LogPAI).",
+    "Engineering degree (Diplôme d'ingénieur), ENSIMAG, Grenoble INP, 2004.",
+    "Master's degree (DEA) in Cryptology and Information Security, Université Joseph Fourier (Grenoble I), 2004.",
+    "Corporate trainer (Agile, Scrum, architecture) and guest lecturer at Concordia University."
+  ],
+  "certifications": "TOGAF, Open Group Certified Architect, IBM Certified Architect, COBIT 5, ITIL, PMP, PMI-ACP, SAFe 5 Advanced Scrum Master, PSM II, Professional Agile Leader, EXIN DevOps Professional.",
+  "languages": "Arabic, French, English, Turkish."
+}

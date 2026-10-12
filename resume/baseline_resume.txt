@@ -1,0 +1,98 @@
+Issam Sedki, PhD
+Enterprise Architect
+isedki@gmail.com | linkedin.com/in/isedki
+SUMMARY
+Enterprise architect with 22 years across Europe, North America and Africa, in senior architecture roles since 2010. ENSIMAG
+engineer with a PhD in AI for IT operations. I build target architectures and their governance, and lead modernization to
+microservices and cloud for clients in telecom, banking, rail, energy, SaaS and the public sector, including Vidéotron, Desjardins,
+CN Rail, OCP Group, Samsung and Sphere. Open to international and remote roles.
+KEY ACHIEVEMENTS
+• Release cycles cut by 50% at Vidéotron through API-first architecture governance.
+• Architecture work on projects over $10M at IBM for OCP Group, Vidéotron, Desjardins and CN Rail.
+• Platform used by over 100,000 INPS pensioners in Mali within 6 months of launch.
+• Engineering and architecture organization built from 1 to 50+ people at Showcare.
+• $10M+ recurring revenue portfolio at Hygraph, with 112% net revenue retention.
+SKILLS
+• Enterprise architecture: TOGAF, capability mapping, target architectures, data architecture, security architecture,
+architecture governance, architecture review board (ARB), IT roadmaps, business cases.
+• Solution and integration architecture: API-first, GraphQL and REST, microservices, headless CMS, BSS integration (CRM,
+billing, product catalogue), RBAC and SSO, caching, i18n.
+• Cloud and DevOps: hybrid cloud, cloud-native, Kubernetes, Ansible, Jenkins, CI/CD, SRE, test automation.
+• Governance and compliance: COBIT 5, ITIL, IT audits, GDPR, SLAs, major incident management.
+• AI: AIOps, LLM-based log analytics, MCP servers, customer AI adoption programs.
+• Delivery and leadership: PMP, SAFe, Scrum, stakeholder management up to C-level, hiring and multi-product teams.
+PROFESSIONAL EXPERIENCE
+Director of Architecture 12/2023 – 07/2026
+Hygraph | API-first headless content platform for large enterprises
+• Responsible for architecture and delivery for 15+ enterprise accounts in 12+ countries (Samsung, Epic Games, SEEK, Sphere),
+from discovery workshops and target architecture to go-live.
+• Guide to Iceland: led the cost reduction program and rebuilt the whole platform architecture, setting it up for a 40% cut in
+infrastructure costs and lower latency (caching, test automation, MCP-generated front end, i18n, localization and
+personalization for new markets).
+• SEEK: cut event setup time from 2 weeks to a few hours with event management automation and reusable content
+templates.
+• Governed migrations from Drupal, WordPress and AEM to cloud-native, with data migration rules, quality checks and cutover
+rehearsals.
+• Sphere (Madison Square Garden group): led the expansion plan for Dubai. UK agency: led its entire digital transformation.
+• AI: built a team of AI agents with automated fail, fix and pass cycles and a human checkpoint for decisions. Ran a customer AI
+onboarding program.
+• Led a team of 10 experts across support, architecture and cross-functional solutions engineering, plus customer success. Built
+the delivery organization (SLAs, escalation, major incidents).
+Principal Architect, Cloud Modernization (consulting) 03/2023 – 06/2023
+FXinnovation, client CAE | Montréal, Canada
+• Audit of SRE, delivery pipelines and operations across 5 departments with a team of 20. Presented findings to the C-level.
+• Cloud-native and DevOps modernization roadmap aligned with budget, adopted by leadership, then broken down into unit
+roadmaps (DevOps, security, process, development, business analysis) to break silos between teams.
+Head of Engineering and Architecture 09/2020 – 02/2023
+Mission.dev, client Showcare | Montréal, Canada | Acting CTO of Showcare, reporting to the COO
+• Designed and built Showcare's event management platform from scratch, with booking automation and partner integrations,
+as part of the digital transformation I led with the COO.
+• Replaced the PHP monolith with microservices over successive releases, with RBAC, SSO, and API contracts and integration
+standards shared by all product teams. Test automation and production monitoring to shorten delivery cycles and reduce
+defects.
+• Ran 5 products and 5 teams with SAFe (PI planning, release trains, cross-team syncing) in a company new to agile. Hired
+team leads and set hiring standards and career paths.
+Principal Enterprise Architect 01/2018 – 08/2020
+IBM Consulting | Montréal, Canada
+• Vidéotron (Canadian telecom operator): architecture lead on the digital transformation, managing 5 architects (DevOps,
+security, API, compliance, infrastructure) with a scrum master, a PO and 20+ people on Vidéotron's side. Set up API-first
+governance.
+• Desjardins (financial cooperative) and CN Rail: cross-department COBIT 5 and TOGAF audits, then target architectures,
+modernization roadmaps and business cases presented to leadership.
+• ExxonMobil: end-to-end migration to hybrid cloud (Kubernetes, Ansible, Jenkins).
+• OCP Group (global phosphate and fertilizer producer): GDPR compliance audit.
+Principal Architect, Portfolio and DevOps 12/2016 – 12/2017
+Artbees | Jupiter, a WordPress-based CMS
+• Lead architect for Jupiter and its VIP customers, in charge of portfolio management. Managed the relationship with C-level
+management.
+• Led the Scrum teams and owned quality and delivery.
+• DevOps: set up CI/CD, automated testing and release gates. Releases went from months to weeks.
+Lead Solution Architect (consulting engagement) 04/2014 – 12/2016
+World Bank | Morocco, Togo, Mali, Senegal
+• Solution architecture for the digital transformation of Finance and Agriculture ministries in four countries, including data
+exchange between government platforms and governance across bilingual public agencies.
+• INPS Mali (national social security institute), 2015: launched the retirees' application, then fixed and improved its scalability
+after go-live.
+Quality and Integration Manager 05/2012 – 04/2014
+Atos, client inwi (Moroccan telecom operator) | Casablanca, Morocco
+• Led a team of testers and integrators on the BSS transformation (product catalogue, CRM, customer portal, billing) and the
+national 4G rollout.
+• Architecture checks and reviews, test plans, test automation and quality reporting. Owned the go/no-go sign-off before
+releases.
+Senior Architect and Team Lead 2008 – 2012
+Uniforce | Casablanca, Morocco and Paris (Gennevilliers), France
+• Architecture of the port management system for Marsa Maroc, Morocco's port operator.
+• Managed the project for Chèque Déjeuner (French meal voucher group) with monthly steering and executive committees.
+Senior Java Developer 2007 – 2008
+Archos Conseil | Casablanca, Morocco | Java and automation for Pixid (French temporary staffing SaaS)
+Senior Java Developer 2004 – 2007
+Amadeus | Sophia Antipolis, France | Planitgo Next and Flex Pricer team (airline booking and fare search), automation
+EDUCATION AND TEACHING
+• PhD in Electrical and Computer Engineering, Concordia University, 2025. Research on AIOps and LLM-based log analytics.
+• Engineering degree (Diplôme d'ingénieur), ENSIMAG, Grenoble INP, 2004.
+• Master's degree (DEA) in Cryptology and Information Security, Université Joseph Fourier (Grenoble I), 2004.
+• Corporate trainer (Agile, Scrum, architecture) and guest lecturer at Concordia University.
+CERTIFICATIONS AND LANGUAGES
+TOGAF, Open Group Certified Architect, IBM Certified Architect, COBIT 5, ITIL, PMP, PMI-ACP, SAFe 5 Advanced Scrum Master,
+PSM II, Professional Agile Leader, EXIN DevOps Professional.
+Languages: Arabic, French, English, Turkish.
