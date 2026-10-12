@@ -130,7 +130,7 @@
       "dates": "05/2012 – 04/2014",
       "org": "Atos, client inwi (Moroccan telecom operator) | Casablanca, Morocco",
       "bullets": [
-        "Led testers and integrators on the BSS transformation (product catalogue, CRM, customer portal, billing) and the national 4G rollout: architecture reviews, test automation, and the go/no-go sign-off before releases."
+        "Led testers and integrators on the BSS transformation (product catalog, CRM, customer portal, billing) and the national 4G rollout: architecture reviews, test automation, and the go/no-go sign-off before releases."
       ],
       "stack": "OSS/BSS, billing, Intelligent Network (IN), SAP, PeopleSoft, TDD, BDD with Gherkin"
     },
